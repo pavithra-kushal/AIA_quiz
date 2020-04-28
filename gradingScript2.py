@@ -7,7 +7,7 @@ QUESTIONS = [
         'Question 4) How many duplicated lines are present in the project? ',
         'Question 5) How difficult is the application to understand, in terms of cognitive complexity? ',
         'Question 6) Does SonarQube give information about test coverages? (Enter "Yes" or "No") ',
-        'Question 7) What is the "Review priority" of SQL Injection detected by SonarQube? (Enter "High" or "Medium" or "Low")'
+        'Question 7) What is the "Review priority" of SQL Injection hotspot detected by SonarQube? (Enter "High" or "Medium" or "Low")'
         ]
 
 ANSWERS = [
