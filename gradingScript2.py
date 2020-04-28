@@ -1,7 +1,7 @@
 import hashlib
 
 QUESTIONS = [
-        'Question 1) What is the "Maintainability" rating given by SonarQube? (Enter "A" or "B" or "C" or "D" or "E" or "F" ) ',
+        'Question 1) What is the "Maintainability" rating given by SonarQube? (Enter between "A" to "F" ) ',
         'Question 2) Are there any Code Smells that are Blockers? (Enter "Yes" or "No")',
         'Question 3) Is the code prone to SQL injection? (Enter "Yes" or "No")',
         'Question 4) How many duplicated lines are present in the project? ',
