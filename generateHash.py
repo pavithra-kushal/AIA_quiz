@@ -4,7 +4,7 @@ import hashlib
 print("Enter input")
 # inp = raw_input()
 # m = hashlib.sha256()
-ans = "74"
+ans = "6"
 print(hashlib.sha256(ans).hexdigest())
 
 
