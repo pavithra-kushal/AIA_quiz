@@ -4,7 +4,7 @@ QUESTIONS = [
         'Question 1) Jenkins is an automation tool used for Continuous Integration (Enter "True" or "False")',
         'Question 2) Which account did you authenticate for ssh login without password?(Enter the account name)',
         'Question 3) Maven is used for version control (Enter "True" or "False")',
-        'Question 4) How many types of mechanisms does Jenkins support for SonarQube authentication? (Enter a number)',
+        'Question 4) How many types of mechanisms does Jenkins support for SonarQube authentication (Hint: You used the "Secret Text" mechanism for this lab)? (Enter a number)',
         'Question 5) Security Hotspots in SonarQube are the security-sensitive code that require manual review?(Enter "True" or "False") ',
         'Question 6) Which one of the recommended fix did you use to fix SQL Injection in the Java code'
         ]
